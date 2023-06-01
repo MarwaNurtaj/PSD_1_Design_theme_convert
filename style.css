@@ -1,6 +1,18 @@
+body{
+    margin: 0;
+
+}
 header{
-    background: black;
+    background: #23232e;
+    text-align: center;
     color: white;
+    font-size: 20px;
+    padding: 20px;
+}
+header img{
+    width: 8%;
+    padding: 50px 20px ;
+    margin: 10px;
 }
 section{
     color:aliceblue;
