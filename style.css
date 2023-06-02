@@ -1,19 +1,49 @@
 body{
     margin: 0;
-
 }
 header{
     background: #23232e;
     text-align: center;
     color: white;
-    font-size: 20px;
-    padding: 20px;
+    /* font-weight: bolt; */
+    padding: 20px 0;
+    
 }
 header img{
     width: 8%;
-    padding: 50px 20px ;
-    margin: 10px;
+    padding-bottom: 30px;
 }
-section{
-    color:aliceblue;
+h2{
+    /* margin-top: 10px; */
+    /* padding-top: 60px; */
+    font-size: 80pt;
+    text-transform: uppercase;
+}
+header p{
+    font-size: 19pt;
+    margin-bottom: 150px;
+    line-height: 25px;
+}
+header span{
+    border: 1px solid white;
+    border-radius: 50%;
+    padding: 10px;
+}
+.what-i-do{
+    text-align: center;
+    color: #464b4f;
+}
+.what-i-do > p{
+    font-size: 30pt;
+    line-height: 30px;
+}
+.space{
+    padding: 0 25%;
+}
+.what-i-do .row .col{
+    text-align: left;
+    margin: 10px 1%;
+    font-size: 19pt;
+    width: 31.3%;
+    float: left;
 }
